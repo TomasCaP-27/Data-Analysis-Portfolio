@@ -26,7 +26,6 @@ Analysis of the performance of Independiente Santa Fe across four seasons, inclu
 - Home vs away performance
 - Coach efficiency (PPP vs win percentage)
 - Key offensive players (GA/90)
-- Expected points estimation
 
 Tableau Public dashboard link available inside the project folder.
 
@@ -35,3 +34,4 @@ Tableau Public dashboard link available inside the project folder.
 ## License
 
 This repository is licensed under the MIT License.
+
