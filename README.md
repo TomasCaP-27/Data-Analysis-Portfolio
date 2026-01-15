@@ -31,7 +31,35 @@ Tableau Public dashboard link available inside the project folder.
 
 ---
 
+### Divvy Bikes Usage Anaysis (2024)
+Exploratory and descriptive analysis of Divvy Bikes trip data for the year 2024, focused on
+usage patterns, seasonality, and rider behavior.
+
+The project is based on a large-scale dataset (5M+ records) consolidated using SQL due to
+data volume constraints. The analysis was conducted using R, with final insights presented
+through Tableau dashboards and a stakeholder-oriented presentation.
+
+**Key topics:**
+- Seasonal and monthly usage trends
+- Differences between member and casual riders
+- Trip volume and duration by day of the week
+- Data aggregation for business intelligence tools
+
+**Notes:**
+- Raw data is not redistributed due to licensing and size considerations
+- The processed dataset is hosted externally (Kaggle)
+- This project was developed for academic and portfolio purposes only
+
+Tableau Public dashboard and project documentation are available inside the project folder.
+
+---
+
+## Additional Profiles
+
+- Kaggle: https://www.kaggle.com/tomscapa
+
 ## License
 
 This repository is licensed under the MIT License.
+
 
