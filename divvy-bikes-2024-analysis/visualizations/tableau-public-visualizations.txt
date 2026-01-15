@@ -1,0 +1,6 @@
+Tableau Public Visualizations:
+https://public.tableau.com/views/AnlisisCiclistico-TomsC_P_/Hoja1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AnlisisCiclistico-TomsC_P_/Hoja2?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AnlisisCiclistico-TomsC_P_/Hoja3?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+NOTE: There is a visualization that was created in RStudio; this visualization can be generated from the execution of the script.
