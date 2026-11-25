@@ -1,2 +1,2 @@
 Tableau Public Dashboard:
-https://public.tableau.com/shared/6QND6PXHJ?:display_count=n&:origin=viz_share_link
+https://public.tableau.com:9443/views/RendimientodeIndependienteSantaFe-Temporadas2022a2025/RendimientodeIndependienteSantaFe?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
